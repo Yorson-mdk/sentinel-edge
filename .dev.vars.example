@@ -1,0 +1,2 @@
+DASHBOARD_TOKEN=replace-with-a-local-development-token
+AUDIT_INGEST_TOKEN=replace-with-a-different-local-ingest-token
